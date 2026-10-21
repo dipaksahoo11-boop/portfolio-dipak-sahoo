@@ -1,6 +1,16 @@
 ---
 title: Academic Portfolio Template
 ---
+# About Me
+I am a Research Scientist in Veterinary Clinical Sciences, and my current research focuses on developing molecular markers and understanding the molecular mechanisms linked to inflammatory bowel diseases, cancer, and sepsis, as well as the impact of antioxidants/oxidative stress in various pathophysiological conditions. I have an extensive research background of over 20 years with doctoral and postdoctoral training in animal biology/zoology, specific training and expertise in working on various disease models, cancer biology, molecular biology, biochemistry, genetics and ex vivo organoid studies (Google Scholar citations: 5328, h-index: 37; i10-index: 92). As of May/June 2025 (Web of Science), my 3 highly cited publications, in which I am the leading author and/or corresponding author, placed 2 in the top 1% of the academic field of Microbiology and Biology & Biochemistry and 1 in the top 0.1% of the academic field of Clinical Medicine. I have reviewed 224 manuscripts for 72 different peer-reviewed international journals from various publishers, including Nature, Elsevier, Springer, Wiley-Blackwell, Hindawi, Frontiers, MDPI, PLoS, and Karger. I received "Sentinels of Science-September 2016" for serving as a "Top peer reviewer" in the fields of Biochemistry, Genetics, and Molecular Biology, in recognition of my contributions as a reviewer. I also served as a Guest Associate Editor for research topics in Frontiers in Endocrinology (Cellular Endocrinology & Translational and Clinical Endocrinology) and Frontiers in Genetics (Human and Medical Genomics). Also, I am listed among the Stanford World's Top 2% Scientists for 2025 and 2026.
+
+## Education & Certifications
+
+
+
+
+
+
 
 Write pages in Markdown.
 
